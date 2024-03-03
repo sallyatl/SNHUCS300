@@ -1,1 +1,1 @@
-# SNHUCS300
+The problem I was solving for this course was to find the best data structure for writing a program for a fictional college ABCU. There are three major data structure's we learned about including vector, binary search tree, and hash table. I approached the problem by using the resources for school including Zybooks and 24/7 tutoring. Working on this has expanded my approach to developing and writing software, and it evolved the way I write programs to be more maintainable, readable, and adapatable. 
